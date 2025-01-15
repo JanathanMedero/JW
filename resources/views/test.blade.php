@@ -28,12 +28,12 @@
     </div>
     <div class="row mt-4 d-flex justify-content-center">
         <div class="col-2 d-flex justify-content-center">
-            <a href="{{ route('login') }}" type="button" class="btn btn-primary">Iniciar sesión</a>
+            <a href="{{ route('login') }}" type="button" class="btn btn-primary btn-lg">Iniciar sesión</a>
         </div>
     </div>
     <div class="row mt-4 d-flex justify-content-center align-items-center">
         <div class="col-md-3 d-flex justify-content-center">
-            <a href="{{ route('register') }}" type="button" class="btn btn-danger">Registrarse</a>
+            <a href="{{ route('register') }}" type="button" class="btn btn-danger btn-lg">Registrarse</a>
         </div>
     </div>
 
